@@ -1,0 +1,6 @@
+[submodule "Alien-Invasion"]
+	path = Alien-Invasion
+	url = https://github.com/mrinconp/Alien-Invasion.git
+[submodule "Sideway-Shooter-Final"]
+	path = Sideway-Shooter-Final
+	url = https://github.com/mrinconp/Sideway-Shooter-Final.git
